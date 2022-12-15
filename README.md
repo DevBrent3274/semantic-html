@@ -29,4 +29,4 @@ THEN I find a concise, descriptive title
 ```
 ## Mock Up
 <!-- screen captue here? -->
-![capture](file:///Users/brentjohnson/Documents/bootcamp1/homework/semantic-html/index.html)
+![Here is my screenshot](./assets/images/screenshot.png)
