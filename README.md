@@ -28,5 +28,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 ## Mock Up
-<!-- screen captue here? -->
+<!-- screen captue here-->
 ![Here is my screenshot](./assets/images/screenshot.png)
+
+© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
